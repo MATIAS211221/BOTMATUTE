@@ -1,6 +1,6 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> FEITO E TRADUZIDO POR: DARK YT
 <p align="center">
-<img src="https://media-giphy-com.cdn.ampproject.org/ii/w820/s/media.giphy.com/media/1g3A0gpaidxWcL9Mfo/giphy.gif" width="230" height="230"/>
+<img src="https://media.giphy.com/media/JROB2yZw89dFXrPXR9/giphy.gif" width="230" height="230"/>
 </p>
 <br>
 
@@ -8,39 +8,39 @@
  
 </details>
 
-### ATENÇÃO
-DESEJA RE-CARREGAR O SCRIPT? AMO MEU NOME / LINK CHANEL .... NÃO ALTERE A INFORMAÇÃO !!!
+### Atencion!! TRADUCIDO POR SAMU330
+¿QUIERES VOLVER A CARGAR EL SCRIPT? AMO MI NOMBRE / ENLACE CHANEL .... NO CAMBIE LA INFORMACIÓN !!!
 
 ## NOTA:>
-NÃO VENDE / COMPRE O SCRIPT, ESTE SCRIPT É 100% GRATUITO PARA OS USUÁRIOS DO TERMUX
+NO VENDE / COMPRE GUIÓN, ESTE GUIÓN ES 100% GRATIS PARA LOS USUARIOS DE TERMUX
 </div>
 
-### FERRAMENTAS E MATERIAIS <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="29px">
-Prepare as ferramentas e materiais.
-`` `bash
-> 2 telefones celulares (1 para executar SC, 1 para ler o código QR sis)
-> rede de internet rápida, cota +
-> armazenamento adequado
-> aplicativo whatsapp
-> aplicativo termux
-> café + cigarros KKKK;-;
-```
-INSTALAÇÃO:
+### HERRAMIENTAS Y MATERIALES <img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width = "29px">
+Prepare herramientas y materiales.
+bash
+> 2 teléfonos móviles (1 para ejecutar SC, 1 para escanear el código QR sis)
+> red de Internet rápida, cuota +
+> almacenamiento adecuado
+> aplicación whatsapp
+> aplicación termux
+> café + cigarrillos KKKK; -;
+''
+INSTALACIÓN:
 
-> Se você não tiver o APK Termux, baixe-o na Playstore
-> entre no apk termux e digite abaixo!
+> Si no tiene el APK de Termux, descárguelo de Playstore
+> ingrese el termux apk y escriba a continuación!
 > termux-setup-storage
 > pkg install git && pkg install tesseract && pkg install wget && pkg install ffmpeg && pkg install nodejs
-> apt update && apt upgrade
+> update apt && update apt
 > git clone https://github.com/HigorOlive/d4rk
 > cd d4rk
-> npm i -g cwebp && npm i node-tesseract-ocr && npm i -g ytdl && npm i  && npm i got && node index js
-> Basta escanear o código qr e ... pronto
-```
+> npm i -g cwebp && npm i node-tesseract-ocr && npm i -g ytdl && npm i && npm i got && node index.js
+> Simplemente escanee el código qr y ... listo
+''
 
 ## CARACTERÍSTICAS  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
 
-| D4RK BOT      |                   Característica        |
+| SAMUBOT      |                   Característica        |
 | :-----------: | :------------------------------: |
 |       ✅       | Criador de adesivos                  |
 |       ✅       | Nulis                            |
@@ -77,8 +77,8 @@ INSTALAÇÃO:
 |       ✅       | 18+.                             |
 |       ✅       | MAIS recursos em breve 🍂        |
 
-DARKZIN DOMINA 🐦❤️
+SAMU330 DOMINA 🐦❤️
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
+<img src="https://scontent.fmid4-1.fna.fbcdn.net/v/t1.0-0/c0.4.480.480a/s526x395/103469528_154803396087710_914979189346976214_n.jpg?_nc_cat=105&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeH6aagqAsn6T-BjWoA7MHDXU3lPJA6SwrxTeU8kDpLCvDTL1FWk8WJk_fN1Rqpv1GV48g1i_b9jMktxWqcHo9Y_&_nc_ohc=Ypqe--e3FZIAX_D18qc&_nc_ht=scontent.fmid4-1.fna&tp=28&oh=ba6e218586d63ee9771bfb3bb58b0d27&oe=6008A584" alt="Samu330" width="600" />
 
 
