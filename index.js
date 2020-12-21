@@ -18,12 +18,12 @@ const arrayBulan = ['Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni', 'Jul
 const bulan = arrayBulan[moment().format('MM') - 1]
 
 const config = {
-    A187: '📍D4RKBOT📍',
-    instagram: 'OFF',
-    nomer: 'wa.me/21997123716',
-    aktif: '24 JAM',
-    youtube: 'https://youtube.com/channel/UCRaC-6JyCW_iqbW1DbuXVxQ',
-    whatsapp: 'https://chat.whatsapp.com/KTlC0MXi3WJChdQeps5flt',
+    A187: '📍SAMU330📍',
+    instagram: 'https://www.instagram.com/Samu3_30/',
+    nomer: 'wa.me/+529984907794',
+    aktif: '21 DEC',
+    youtube: 'https://www.youtube.com/channel/UCqPXxG2ZdDe_ugOqMHDRMqg?view_as=subscriber',
+    whatsapp: 'https://wa.me+529984907794',
     tanggal: `TANGGAL: ${moment().format('DD')} ${bulan} ${moment().format('YYYY')}`,
     waktu: time
 }
@@ -109,7 +109,7 @@ const client = new WAConnection()
 
 client.on('qr', qr => {
    qrcode.generate(qr, { small: true })
-   console.log(`[ ${time} ] QR code is ready, subscribe Aris187 ID`)
+   console.log(`[ ${time} ] QR code is ready, subscribe Samu330`)
 })
 
 client.on('credentials-updated', () => {
